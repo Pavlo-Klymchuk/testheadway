@@ -1,0 +1,20 @@
+.button-get-started {
+   font-family: Inter;
+   font-style: normal;
+   font-weight: 600;
+   font-size: 16px;
+   display: flex;
+   align-items: center;
+   text-align: center;
+   color: #ffffff;
+   border: none;
+   border-radius: 8px;
+   background-color: #0066ff;
+   padding: 20px 127px;
+}
+
+@media (min-width: 800px) {
+   .button-get-started {
+      padding: 20px 117px;
+   }
+}
